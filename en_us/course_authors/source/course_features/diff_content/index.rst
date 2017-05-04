@@ -26,11 +26,11 @@ your course.
 Offering Different Content to Learners Based on Their Enrollment Track
 **********************************************************************
 
-If your course has more than one enrollment track, you can designate specific
-content as being available to learners in each of the enrollment tracks.
+If your course has more than one enrollment track, you can provide different
+content to learners in each of the enrollment tracks.
 
 For example, you might provide the same course content to all learners except
-that for the mid-term and final exams, learners who are in a non-certificate
+that for the midterm and final exams, learners who are in a non-certificate
 track and learners who are in a certificate track are given different exams.
 
 For information about creating differentiated content based on enrollment

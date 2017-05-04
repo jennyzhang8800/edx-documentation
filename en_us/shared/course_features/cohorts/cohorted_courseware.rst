@@ -168,10 +168,11 @@ To view the units that are visible to a content group, follow these steps.
 #. Click the content group name to view the names of units and components that
    are visible to this group.
 
-#. Click a linked unit name to go to that unit in the **Course Outline**,
-   where you can where you can change that unit's :ref:`visibility
-   settings<Content Hidden from Students>`. You can also :ref:`Specify
-   Components in Courseware as Visible Only to Certain Content Groups`.
+#. Click a linked unit name to go to that unit in the course outline, where
+   you can change that unit's :ref:`visibility settings<Content Hidden from
+   Students>`. You can also :ref:`make some components visible only to certain
+   content groups<Specify Components in Courseware as Visible Only to Certain
+   Content Groups>`.
 
 For details about previewing your course to ensure that learners in a cohort
 correctly see the content intended for them, see :ref:`Viewing Cohort Specific

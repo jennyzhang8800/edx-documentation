@@ -18,14 +18,12 @@ Overview
 *********
 
 If your course has more than one enrollment track, you can create different
-course experiences for learners in each enrollment track.
+course experiences for learners in each enrollment track. You do this by
+designating specific components in your course as visible only to learners in
+one or more of the enrollment tracks. Then, learners in each of the enrollment
+tracks see only the course content that you have designated for that track.
 
-You do this by designating specific components in your course as visible only
-to learners in one or more of the enrollment tracks. Then, learners in each of
-the enrollment tracks see only the course content that you have designated for
-that track.
-
-Complete these steps to create track-specific content in your course.
+To create track-specific content in your course, follow these steps.
 
 #. :ref:`Specify course components as visible only to particular enrollment track groups<Specify Components as Visible Only to Certain Enrollment Tracks>`
 #. :ref:`View components that are available for each enrollment track group<View Components Available Based on Enrollment Track>`
@@ -52,8 +50,8 @@ When Learners Change Enrollment Tracks
 ======================================
 
 Learners select an enrollment track when they first enroll in a course, and in
-many cases they will change enrollment tracks during the course run, for
-example, to upgrade from the audit track to the verified track.
+many cases they will change enrollment tracks during the course run. For
+example, learners might upgrade from the audit track to the verified track.
 
 In a course where you offer differentiated content based on enrollment track,
 when learners change tracks during the course run, the content that they see
@@ -67,8 +65,8 @@ when learners change from one enrollment track to another.
 
 .. warning:: If a learner changes enrollment tracks after having completed some
    course content in a different enrollment track, only grades from content
-   that was available to all learners are kept and are reflected in the learner's
-   progress page.
+   that was available to all learners are kept and are reflected on the learner's
+   **Progress** page.
 
 
 .. _Specify Components as Visible Only to Certain Enrollment Tracks:
@@ -77,9 +75,8 @@ when learners change from one enrollment track to another.
 Specify Components as Visible Only to Particular Enrollment Tracks
 ******************************************************************
 
-You can edit your course in Studio and modify the visibility settings of
-components that you want to make visible only to learners in particular
-enrollment tracks.
+In Studio, you can modify the visibility settings of components that you want to
+make visible only to learners in particular enrollment tracks.
 
 You specify content as visible to learners by enrollment track at the
 component level in a unit. You cannot specify entire units, subsections, or
@@ -88,24 +85,24 @@ sections for visibility by enrollment track.
 .. note:: You do not need to edit the visibility settings of components that
    are intended for all learners. Components that you do not explicitly
    indicate as visible to a group are visible to all learners enrolled in your
-   course, regardless of their enrollment track.
+   course, regardless of the learner's enrollment track.
 
 
 To specify components as visible only to learners in particular enrollment
 tracks, follow these steps.
 
-#. In Studio, select **Content**, then select **Outline**.
+#. In Studio, select **Content**, and then select **Outline**.
 
 #. In each unit, for each component that you want to make visible only to a
    particular enrollment track, select the **Visibility Settings** icon.
 
    .. image:: ../../../../shared/images/Cohorts_VisibilitySettingInUnit.png
-    :alt: A component in the unit page with the visibility setting icon
+    :alt: A component in the unit page with the Visibility Settings icon
       highlighted.
     :width: 600
 
-#. In the **Editing visibility** dialog box, select **Enrollment Tracks** in
-   the **Change visibility to** control, then select the checkbox for each
+#. In the **Editing visibility** dialog box, for the **Change visibility to**
+   option, select **Enrollment Tracks**, and then select the checkbox for each
    enrollment track for which you want the current component to be visible.
 
    .. image:: ../../../../shared/images/ComponentEditVisibility.png
@@ -132,7 +129,7 @@ content is visible only to specific groups of learners.
      particular group.
    :width: 300
 
-For details about previewing your course to ensure that learners in a
+For more information about previewing your course to ensure that learners in a
 particular enrollment track correctly see the content intended for them, see
 :ref:`Viewing Track Specific Courseware` and :ref:`Roles for Viewing Course
 Content`.
@@ -140,8 +137,8 @@ Content`.
 .. note:: In addition to visibility settings for content groups, a learner's
    ability to see a course component also depends on whether it is marked as
    visible to staff only, whether the unit is published, and the course's
-   release date. For details about testing course content in general, see
-   :ref:`Testing Your Course Content`.
+   release date. For more information about testing course content in general,
+   see :ref:`Testing Your Course Content`.
 
 
 .. _View Components Available Based on Enrollment Track:
@@ -153,24 +150,25 @@ View Components That Are Available Based on Enrollment Track
 To view the components that are available to learners in each of the
 enrollment tracks in your course, follow these steps.
 
-#. In Studio, select **Settings**, then select **Group Configurations**.
+#. In Studio, select **Settings**, and then select **Group Configurations**.
 
 #. On the **Group Configurations** page, locate the enrollment track group for
    which you want to view the usage. Enrollment track groups are shown on this
    page only if more than one enrollment track exists in the course. Each
    enrollment track group corresponds to an enrollment track.
 
-   The enrollment track group's box displays the number of units that are designated for learners in the track.
+   The enrollment track group's box displays the number of units that are
+   designated for learners in the track.
 
 #. Click the enrollment track name to view the names of units and components
    that are designated for learners in the track.
 
-#. Click a linked unit name to go to that unit in the **Course Outline**,
-   where you can change that unit's :ref:`visibility settings<Content Hidden
-   from Students>`.
+#. Click a linked unit name to go to that unit in the course outline, where
+   you can change that unit's :ref:`visibility settings<Content Hidden from
+   Students>`.
 
-For details about previewing your course to ensure that learners in an
-enrollment track correctly see the content intended for them, see
+For more information about previewing your course to ensure that learners in
+an enrollment track correctly see the content intended for them, see
 :ref:`Viewing Track Specific Courseware`.
 
 
@@ -182,15 +180,15 @@ Viewing Track-Specific Course Content
 
 After you designate components as being visible only to the learners in
 certain enrollment tracks, you can view your course content as a learner in
-each affected enrollment track to ensure that learners in each track correctly
-see the content intended for them.
+each enrollment track to ensure that learners in each track correctly see the
+content intended for them.
 
 .. note:: In addition to visibility settings for content groups, a learner's
-   ability to see a course component also depends on whether it is marked as
-   visible to staff only, whether the unit is published, and the course's
-   release date. For details about viewing course content in various publishing
-   states, see :ref:`View Published Content` and :ref:`Preview Unpublished
-   Content`.
+   ability to see a course component also depends on whether the component is
+   marked as visible to staff only, whether the unit is published, and the
+   course's release date. For more information about viewing course content in
+   various publishing states, see :ref:`View Published Content` and
+   :ref:`Preview Unpublished Content`.
 
 Depending on whether you want to view published content or unpublished content,
 you choose either **View Live** or **Preview** from the course outline in

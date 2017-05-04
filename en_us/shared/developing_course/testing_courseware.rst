@@ -317,8 +317,8 @@ This view displays content as a learner who is in a specific enrollment track
 would experience it. You can use this view to verify that content designed for
 learners in a specific enrollment track is displaying as intended.
 
-For details about enrollment track groups, and about creating and previewing
-enrollment track based content, see :ref:`About Enrollment Track Groups and
-Visibility` and :ref:`Enrollment Track Specific Courseware Overview`.
+For more information about enrollment track groups, and about creating and
+previewing enrollment track based content, see :ref:`About Enrollment Track
+Groups and Visibility` and :ref:`Enrollment Track Specific Courseware Overview`.
 
 
